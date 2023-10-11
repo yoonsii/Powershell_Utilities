@@ -1,5 +1,6 @@
 $path = read-host -prompt "Enter Path"
 #Naive regex pattern but it works for now. See if you can tidy this up / make it more efficient
+#TODO : Add support for 123456789 and generate a few additional formats
 
 #Hard-Coded for ease of development
 #$path = "C:\sandbox\phone\phone.txt"
